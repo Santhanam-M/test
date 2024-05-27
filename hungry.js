@@ -8,4 +8,5 @@ if(input === 'yes'){
 else{
     console.log('do your homework')
     console.log('drink water')
+    console.log('drink soda')
 }
